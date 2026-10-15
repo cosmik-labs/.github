@@ -12,7 +12,6 @@ Cosmik is an independent open-source gaming workshop, building games, mods, tool
 
 ## In development
 
-- **HPLX** (Reimagine): A product family built on the HPLX engine, bringing classic games forward alongside a desktop app and planned editing tools.
-  - **Amnesia: The Dark Descent**: the first game reimplementation in the family.
+- **HPLX** (Extend): An editor for *Amnesia: The Dark Descent*'s custom stories that plays your story right inside it, on a faithful reimplementation of the game that uses the files from your own copy.
 
-These are Cosmik's first projects. The engine and game repositories will be published here after the initial MVP.
+This is Cosmik's first project. Its repositories will be published here after the initial MVP.
