@@ -1,17 +1,28 @@
-![Cosmik banner](https://raw.githubusercontent.com/cosmiklabs/.github/main/profile/assets/cosmik-banner.png)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cosmiklabs/.github/main/profile/assets/cosmik-lockup-offwhite.svg">
+    <img src="https://raw.githubusercontent.com/cosmiklabs/.github/main/profile/assets/cosmik-lockup-ink.svg" alt="Cosmik" width="840">
+  </picture>
+</p>
 
-# Cosmik
+Cosmik is home to **Tectra** and **HPLX**.
 
-Cosmik is an independent open-source gaming workshop, building games, mods, tools, and modern reimplementations of classic game technology.
+## Tectra
 
-## Reimagine, extend, create
+Create and revise constructed 3D structures with AI assistance. Describe an idea, inspect a proposal and direct the next revision. Tectra brings connected parts, construction rules and materials into the same authoring workflow.
 
-- **Reimagine**: Modern reimplementations of older open-source games and engines.
-- **Extend**: Mods and tools that build on existing games.
-- **Create**: Original games and experiments.
+**In development.** [Explore Tectra →](https://cosmiklabs.org/projects/tectra/)
 
-## In development
+## HPLX
 
-- **HPLX** (Extend): An editor for *Amnesia: The Dark Descent*'s custom stories that plays your story right inside it, on a faithful reimplementation of the game that uses the files from your own copy.
+An editor for *Amnesia: The Dark Descent*’s custom stories. Build a story and playtest it inside the editor, on a reimplementation that reads the game files from your own copy.
 
-This is Cosmik's first project. Its repositories will be published here after the initial MVP.
+**In development; no release yet.** [Explore HPLX →](https://cosmiklabs.org/projects/hplx/)
+
+HPLX contains no original game assets. It is independent of and unaffiliated with Frictional Games.
+
+---
+
+[Website](https://cosmiklabs.org/) · [About Cosmik](https://cosmiklabs.org/about/) · [Brand kit](https://github.com/cosmiklabs/brand)
+
+Software licensing and availability are specific to each project. Cosmik’s shared brand kit is separate from its product kits, `brand-tectra` and `brand-hplx`.

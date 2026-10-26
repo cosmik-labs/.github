@@ -1,0 +1,15 @@
+{
+  "repository": "cosmiklabs/brand",
+  "tag": "v0.15.1",
+  "commit": "31cd0202eb0691c32e0c08b81a94c209c9a1c2b4",
+  "assets": {
+    "cosmik-lockup-offwhite.svg": {
+      "source": "kits/cosmik/assets/vector/cosmik-lockup-offwhite.svg",
+      "sha256": "356956d8a8fa5259a36b55de47d8dff8f213b823be48ff73266d30062c9a415c"
+    },
+    "cosmik-lockup-ink.svg": {
+      "source": "kits/cosmik/assets/vector/cosmik-lockup-ink.svg",
+      "sha256": "21c83d3f69fb1b74a012cd039679de63797be6ce9756d9ba443b861b15de089e"
+    }
+  }
+}
